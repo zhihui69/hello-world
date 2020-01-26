@@ -1,0 +1,1 @@
+print("What a beautiful day !")
